@@ -1,0 +1,19 @@
+{
+  "name": "simplecrudwexpress",
+  "version": "1.0.0",
+  "description": "CRUD App w/ Express. ",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EastonA01/CTAC-Simple-CRUD-Application-with-Express.git"
+  },
+  "author": "EastonA01",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EastonA01/CTAC-Simple-CRUD-Application-with-Express/issues"
+  },
+  "homepage": "https://github.com/EastonA01/CTAC-Simple-CRUD-Application-with-Express#readme"
+}
