@@ -4,7 +4,7 @@
   "description": "CRUD App w/ Express. ",
   "main": "app.js",
   "scripts": {
-    "test": "node app.js"
+    "test": "node --watch app.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/EastonA01/CTAC-Simple-CRUD-Application-with-Express/issues"
   },
-  "homepage": "https://github.com/EastonA01/CTAC-Simple-CRUD-Application-with-Express#readme"
+  "homepage": "https://github.com/EastonA01/CTAC-Simple-CRUD-Application-with-Express#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "morgan": "^1.10.0"
+  }
 }
